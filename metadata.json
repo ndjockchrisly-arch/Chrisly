@@ -1,0 +1,6 @@
+{
+  "name": "PHIS GUARD",
+  "description": "Plateforme pédagogique et préventive de détection heuristique des tentatives de phishing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
